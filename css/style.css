@@ -8366,7 +8366,7 @@ h1, h2, h3, h4, h5,
 .navbar-brand {
   font-weight: 900;
   font-size: 26px;
-  position: absolute;
+  position: relative;
   z-index: 0; }
   .navbar-brand:after {
     position: absolute;
