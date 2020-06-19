@@ -8827,7 +8827,7 @@ h1, h2, h3, h4, h5,
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   -ms-border-radius: 2px;
-  border-radius: 2px; }
+  border-radius: 0px; }
   .progress-bar:after {
     position: absolute;
     top: -2px;
@@ -8839,7 +8839,7 @@ h1, h2, h3, h4, h5,
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
     -ms-border-radius: 2px;
-    border-radius: 2px;
+    border-radius: 0px;
     opacity: 0; }
   .progress-bar span {
     position: absolute;
@@ -8852,7 +8852,7 @@ h1, h2, h3, h4, h5,
 .progress-circle .progress {
   width: 150px;
   height: 150px;
-  background: none;
+  background: #fff;
   position: relative; }
 
 .progress-circle .progress::after {
@@ -8879,7 +8879,7 @@ h1, h2, h3, h4, h5,
 .progress-circle .progress .progress-bar {
   width: 100%;
   height: 100%;
-  background: none;
+  background: #fff;
   border-width: 6px;
   border-style: solid;
   position: absolute;
