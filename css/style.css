@@ -8852,7 +8852,7 @@ h1, h2, h3, h4, h5,
 .progress-circle .progress {
   width: 150px;
   height: 150px;
-  background: #fff;
+  background: none;
   position: relative; }
 
 .progress-circle .progress::after {
