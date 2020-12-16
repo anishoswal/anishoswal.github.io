@@ -40,6 +40,12 @@
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
 
+.socialm:hover {
+background-color:#cc5500;
+border-radius: 50%;
+}
+
+
 html {
   font-family: sans-serif;
   line-height: 1.15;
